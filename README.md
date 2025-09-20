@@ -6,7 +6,7 @@ This project analyzes crime incidents in Prince George's County, Maryland for th
 ## Overview of the Code
 
 1. **Data Loading and Filtering**
-   - - The dataset is a CSV file of crime incidents from Prince George's County. 
+   - The dataset is a CSV file of crime incidents from Prince George's County. 
   You can download it manually from the county’s [Open Data Portal](https://data.princegeorgescountymd.gov/) by searching for "Crime Incidents" or the dataset for 2023–present.
    - Loaded into Python using **Pandas**.
    - Filtered to include only crimes from 2025.
